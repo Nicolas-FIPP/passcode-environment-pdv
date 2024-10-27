@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:Nicolas-FIPP/passcode-backend-pdv.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:Nicolas-FIPP/passcode-frontend-pdv.git
